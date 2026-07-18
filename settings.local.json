@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"c:\\\\Users\\\\majir\\\\OneDrive\\\\Desktop\\\\SS-Exim-main-321\\\\index.html\")",
+      "PowerShell(Start-Process \"c:\\\\Users\\\\majir\\\\OneDrive\\\\Desktop\\\\SS-Exim-main-321\\\\gallery.html\")"
+    ]
+  }
+}
